@@ -18,6 +18,6 @@ I also provide some images for you to test, they are in folder test
 
 The function L0Smoothing.m is provided by the reference paper, thanks to their contribution.
 
-References:
+### References
 Li Xu, Cewu Lu, Yi Xu, and Jiaya Jia. Image smoothing via l0 gradient minimization. In Proceedings of the 2011 SIGGRAPH Asia conference, pages 1–12, 2011. 
 
