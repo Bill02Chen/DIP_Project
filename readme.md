@@ -1,7 +1,10 @@
 # Image Art Style Changing
 
 ## Description
-A really small but interesting expirement in using tradition image processing way to change image's art style
+A really small but interesting expirement in using tradition image processing way to change image's art style.
+
+## Methodology
+Basic idea is smoothing and edge enhancement. There are also some adaptive function designed by myself.
 
 
 ## How to use
